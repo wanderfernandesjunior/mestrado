@@ -4,7 +4,7 @@ Repositórios de experimentos realizado no Mestrado em Computação Aplicada do 
 
 ## Referências
 
-Lista dos principais artigos utilizados:
+Lista dos principais artigos e referências de Github utilizados:
 
 ```
 @article{VARGAS2019106223,
