@@ -19,6 +19,7 @@ url = "http://www.sciencedirect.com/science/article/pii/S0920410519306357",
 author = "Ricardo Emanuel Vaz Vargas and Celso José Munaro and Patrick Marques Ciarelli and André Gonçalves Medeiros and Bruno Guberfain do Amaral and Daniel Centurion Barrionuevo and Jean Carlos Dias de Araújo and Jorge Lins Ribeiro and Lucas Pierezan Magalhães"
 }
 ```
+Github: https://github.com/ricardovvargas/3w_dataset
 
 ```
 @article{IsmailFawaz2018deep,
@@ -31,3 +32,4 @@ author = "Ricardo Emanuel Vaz Vargas and Celso José Munaro and Patrick Marques 
   pages                    = {917--963},
 }
 ```
+Github: https://github.com/hfawaz/dl-4-tsc
