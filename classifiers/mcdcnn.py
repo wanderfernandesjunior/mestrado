@@ -9,8 +9,8 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 import time
 import tensorflow as tf
-from utils import save_logs
-from utils import calculate_metrics
+from utils_fawaz import save_logs
+from utils_fawaz import calculate_metrics
 
 
 class Classifier_MCDCNN:

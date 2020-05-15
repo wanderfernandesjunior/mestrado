@@ -7,8 +7,8 @@ import tensorflow as tf
 import numpy as np 
 import time
 
-from utils import calculate_metrics
-from utils import create_directory
+from utils_fawaz import calculate_metrics
+from utils_fawaz import create_directory
 
 class Classifier_MCNN:
 

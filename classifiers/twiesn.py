@@ -10,8 +10,8 @@ from sklearn.linear_model import Ridge
 
 import gc
 
-from utils import calculate_metrics
-from utils import create_directory
+from utils_fawaz import calculate_metrics
+from utils_fawaz import create_directory
 from sklearn.model_selection import train_test_split
 
 import time

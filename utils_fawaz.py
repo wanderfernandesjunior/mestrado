@@ -1,8 +1,8 @@
+# Source: FAWAZ (2019)
+# https://github.com/hfawaz/dl-4-tsc
 from builtins import print
 import numpy as np
 import pandas as pd
-# Source: FAWAZ (2019)
-# https://github.com/hfawaz/dl-4-tsc
 
 import matplotlib
 

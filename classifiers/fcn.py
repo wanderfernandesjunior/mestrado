@@ -9,8 +9,8 @@ import tensorflow as tf
 import numpy as np
 import time 
 
-from utils import save_logs
-from utils import calculate_metrics
+from utils_fawaz import save_logs
+from utils_fawaz import calculate_metrics
 
 class Classifier_FCN:
 
