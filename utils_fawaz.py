@@ -14,7 +14,7 @@ matplotlib.rcParams['font.sans-serif'] = 'Arial'
 import os
 import operator
 
-import utils
+#import utils
 
 MTS_DATASET_NAMES = ['ArabicDigits', 'AUSLAN', 'CharacterTrajectories', 'CMUsubject16', 'ECG',
                      'JapaneseVowels', 'KickvsPunch', 'Libras', 'NetFlow', 'UWave', 'Wafer', 'WalkvsRun']
@@ -363,7 +363,8 @@ def viz_perf_themes(root_dir, df):
     themes_index = []
     # add the themes
     for dataset_name in df.index:
-        themes_index.append(utils.constants.dataset_types[dataset_name])
+        pass
+        #themes_index.append(utils.constants.dataset_types[dataset_name])
 
     themes_index = np.array(themes_index)
     themes, themes_counts = np.unique(themes_index, return_counts=True)
