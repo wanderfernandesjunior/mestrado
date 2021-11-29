@@ -19,12 +19,3 @@ author = "Ricardo Emanuel Vaz Vargas and Celso José Munaro and Patrick Marques 
 }  
 
 Github: <https://github.com/ricardovvargas/3w_dataset>
-
-
-## Instalação do PyOD 
-```
-   cd pyod
-   pip install .
-```
-
-Github: <https://github.com/yzhao062/pyod>

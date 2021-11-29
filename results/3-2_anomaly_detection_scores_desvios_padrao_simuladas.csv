@@ -1,0 +1,9 @@
+CLASSIFICADOR,F1
+"{'batch_size': 8, 'dropout': 0, 'epochs': 10, 'lstm_units': 8}",0.1446199073787443
+"{'batch_size': 8, 'dropout': 0.2, 'epochs': 10, 'lstm_units': 8}",0.14582733315729415
+"{'batch_size': 4, 'dropout': 0, 'epochs': 10, 'lstm_units': 8}",0.1470198865265356
+"{'batch_size': 4, 'dropout': 0.2, 'epochs': 10, 'lstm_units': 8}",0.14777129567539588
+"{'batch_size': 8, 'dropout': 0.2, 'epochs': 10, 'lstm_units': 16}",0.1514573714236338
+"{'batch_size': 8, 'dropout': 0, 'epochs': 10, 'lstm_units': 16}",0.1527004105612015
+"{'batch_size': 4, 'dropout': 0, 'epochs': 10, 'lstm_units': 16}",0.15312332776485804
+"{'batch_size': 4, 'dropout': 0.2, 'epochs': 10, 'lstm_units': 16}",0.15589710140354507
